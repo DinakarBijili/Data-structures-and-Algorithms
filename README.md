@@ -1,10 +1,11 @@
 # Data-structures-and-Algorithms
-Data structures and Algorithms in python
 ![](https://img.shields.io/badge/Python-3.9.0-brightgreen.svg)
 ![](https://img.shields.io/badge/Python-DataStructures-blue.svg)
 ![](https://img.shields.io/badge/Python-Algorithms-yellow.svg)
 
+ Preparation of Data Structures and Algorithms in Python. As it is very importent to built your coding skills and logics. Data Structures and Algorithms is very importent is coding interviews. 
 
+## List of Data structures and Algorithms in python
 -  [Array](https://github.com/DinakarBijili/Data-structures-and-Algorithms/tree/master/ARRAY) :
 
    * [Reverse Array](https://github.com/DinakarBijili/Data-structures-and-Algorithms/blob/master/ARRAY/1.Reverse_array.py)
